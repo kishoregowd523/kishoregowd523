@@ -2,16 +2,16 @@
 
 <h3 align="center">Software Engineer | Fullstack Developer | Front End Developer</h3>
 <br>
-- 👷 <samp><b>I am a Full Stack Developer on a mission to carve my path as a coder and problem-solver.</b>
+- 💻 <samp><b>I am a Full Stack Developer on a mission to carve my path as a coder and problem-solver.</b>
   
  <samp><b> The journey of learning and exploring new technologies has always fascinated me, and now, I am all set to apply my skills and knowledge in real-world scenarios.</b>
  <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working As trainee software Engineer
-- 🌱 I’m getting strong In frontend & Backend languages
-- 👯 I’m eager to collaborate
+- 🔭 I’m currently working As  software Engineer
+- 🌱 I'm Developing strong skills in Full-stack Development
+- 👯 I’m Working across both FRONTEND & BACKEND languages
 - 💬 Let's connect!!! 
 - 📫 How to reach me: kishoregowd523@gmail.com
 
