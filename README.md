@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working As  software Engineer
 - 🌱 I'm Developing strong skills in Full-stack Development
-- 👯 I’m Working across both FRONTEND & BACKEND languages
+- 💼 I’m Working across both FRONTEND & BACKEND languages
 - 💬 Let's connect!!! 
 - 📫 How to reach me: kishoregowd523@gmail.com
 
