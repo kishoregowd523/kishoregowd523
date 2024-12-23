@@ -4,7 +4,7 @@
 <br>
 - 💻 <samp><b>I am a Full Stack Developer on a mission to carve my path as a coder and problem-solver.</b>
   
- <samp><b> The journey of learning and exploring new technologies has always fascinated me, and now, I am all set to apply my skills and knowledge in real-world scenarios.</b>
+ <samp><b> The journey of learning and exploring new technologies has always fascinated me, and now, I am all set to apply my skills and knowledge in real-world scenarios As an Developer.</b>
  <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
