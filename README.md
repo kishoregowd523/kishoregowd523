@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer | Fullstack Developer | Front End Developer</h3>
 <br>
-- 💻 <samp><b>I am a Full Stack Developer on a mission to carve my path as a coder and problem-solver.</b>
+- 💻 <samp><b>I am a Software Engineer on a mission to carve my path as a coder and problem-solver.</b>
   
  <samp><b> The journey of learning and exploring new technologies has always fascinated me, and now, I am all set to apply my skills and knowledge in real-world scenarios As an Developer.</b>
  <div>
